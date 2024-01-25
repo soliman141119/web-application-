@@ -155,7 +155,6 @@ challenge/                 # Root directory of the project
 │
 ├── .gitignore             # Gitignore file to specify ignored files
 ├── docker-compose.yml     # Docker Compose configuration file
-├── LICENSE                # License file
 ├── README.md              # Project README
 └── ...                    # Other project files and documentation
 
